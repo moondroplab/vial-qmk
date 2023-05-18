@@ -1,6 +1,6 @@
 {
-    "manufacturer": "Moondrop",
-    "keyboard_name": "Dash75",
+    "manufacturer": "MOONDROP",
+    "keyboard_name": "Dash 75",
     "maintainer": "vinorodrigues",
     "bootloader": "atmel-dfu",
     "features": {
@@ -10,9 +10,6 @@
         "extrakey": true,
         "mousekey": true,
         "nkro": false,
-        "backlight": false,
-        "rgblight": false,
-        "rgb_matrix": false,
         "lto": true
     },
     "diode_direction": "COL2ROW",
